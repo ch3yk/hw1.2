@@ -20,6 +20,7 @@ public abstract class Hogwarts {
         return transgressionDistance;
     }
 
+
     @Override
     public String toString() {
         return "Hogwarts " +
