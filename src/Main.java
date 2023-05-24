@@ -15,7 +15,7 @@ public class Main {
                 new Slytherin("Грэхэм Монтегю", 55, 69,70,70,70,70,70),
                 new Slytherin("Грегори Гойл", 60, 60,60,60,60,60,60)
         };
-        System.out.println(people[7].toString() );
+        System.out.println(people[8].toString() );
         people[1].compare(people[10]);
         people[4].compare(people[6]);
     }
